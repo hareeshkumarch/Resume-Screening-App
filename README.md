@@ -107,13 +107,6 @@ Format:Resume,Category
 Source: Synthetically generated based on Kaggle resume datasets and job descriptions.
 Note: For production, use larger datasets (e.g., Kaggle's "Resume Dataset" with 13,000+ records).
 
-Project Structure
-resume-screening-app/
-├── app.py                 # Main Streamlit app
-├── resume_dataset.csv     # 100-record training dataset
-├── requirements.txt       # Python dependencies
-├── README.md             # Project documentation
-├── .gitignore            # Excludes model files, virtual env, etc.
 
 Troubleshooting
 
